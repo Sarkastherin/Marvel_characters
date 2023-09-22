@@ -4,7 +4,7 @@
   "description": "A Marvel Web Characters with API from MARVEL STUDIOS",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d gh-pages"
   },
   "keywords": [],
   "author": "",
